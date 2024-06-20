@@ -12,7 +12,7 @@ Add their favorite songs to their playlist
 Loop through their favorite songs
 Make a song go to the next song
 Have it play in any kind of browser on the Internet'
-updated: 1718917346210
+updated: 1718917475949
 created: 1718917255979
 ---
 # Jammin' with Javascript
@@ -20,4 +20,4 @@ created: 1718917255979
 
 ## Speaker Information
 x - (@tigerstechexp)[https://twitter.com/tigerstechexp]
-(Cascadia Talk INformation)[https://cascadiajs.com/2024/talks/jammin-with-javascript]
+(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/jammin-with-javascript]
