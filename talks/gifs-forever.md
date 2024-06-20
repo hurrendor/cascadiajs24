@@ -16,3 +16,24 @@ x - (@tylersticka)[https://twitter.com/tylersticka]
 Twitch - @nearestnabors
 Website - [cloudfour.com](https://cloudfour.com/) 
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/gifs-are-forever-lets-make-them-better]
+
+
+## Improving the GIF Experience
+Existing GIF attributes
+Animated, Silent, Looping, inline, autoplay
+### Adding items to the checklist of needs
+#### Text alternatives
+    - Provide `alt` text descriptions for images used!
+    - Write alt text like you're talking to a friend 
+
+#### Higher Quality, Smaller Size
+Use modern tools like WebP, AVIF to provide higher quality while reducing the size of the file.
+
+##### Other options (libraries): 
+sharp, libvips, gif2webp, FFmpeg, lmageMagick 
+
+##### Services:
+- Cloudinary
+
+
+### Default to Static
