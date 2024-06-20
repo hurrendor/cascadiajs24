@@ -12,7 +12,7 @@ Add their favorite songs to their playlist
 Loop through their favorite songs
 Make a song go to the next song
 Have it play in any kind of browser on the Internet'
-updated: 1718917475949
+updated: 1718918060196
 created: 1718917255979
 ---
 # Jammin' with Javascript
@@ -20,4 +20,23 @@ created: 1718917255979
 
 ## Speaker Information
 x - (@tigerstechexp)[https://twitter.com/tigerstechexp]
+LinkedIn - 
+Email - 
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/jammin-with-javascript]
+
+
+Building out a playlist - Code building session
+
+## HTML - HyperText Markup Language
+Provides the fundamental markup for the skeleton of a web page.
+
+## CSS - Cascading Style Sheets
+Language defining the presentation of a website
+
+## JavaScript
+Giving life to the web site. Akin to a nervous system.
+
+Steps to building the web player
+- Add the distinct HTML elements
+- Add the CSS stylization
+- Add the JavaScript
