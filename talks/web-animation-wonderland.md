@@ -40,7 +40,7 @@ Using the ViewTimeline class
 Just CSS5 - use animation-timeline
 
 ## Chaining animations
-### fScroll Timeline vs View Timeline
+### Scroll Timeline vs View Timeline
 
 
 ## CSS5 MPA View transitions
