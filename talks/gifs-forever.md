@@ -13,7 +13,8 @@ created: 1718900199601
 
 ### Speaker Information
 x - (@tylersticka)[https://twitter.com/tylersticka]
-Twitch - @nearestnabors
+LinkedIn - @tylersticka
+@tylersticka@social.lol
 Website - [cloudfour.com](https://cloudfour.com/) 
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/gifs-are-forever-lets-make-them-better]
 
@@ -27,13 +28,32 @@ Animated, Silent, Looping, inline, autoplay
     - Write alt text like you're talking to a friend 
 
 #### Higher Quality, Smaller Size
-Use modern tools like WebP, AVIF to provide higher quality while reducing the size of the file.
+Use modern file types like WebP, AVIF to provide higher quality while reducing the size of the file.
 
 ##### Other options (libraries): 
 sharp, libvips, gif2webp, FFmpeg, lmageMagick 
 
 ##### Services:
-- Cloudinary
+- Cloudinary (Biased Link)[cloudfour.com/make]
 
 
-### Default to Static
+### Motion preferences
+Default to a static image asset to provide non-animated versions for user preferences
+
+### Playback control
+Give users individualized control by providing the 
+`<video control>` attribute. Changing GIF to video file types is comparable in size.    
+Attributes like `<video control autoplay loop muted playinline>`
+#### Alt Text on Playback
+- Use the HTML <figure>and <figcaption> elements
+- Use an aria-label combined with the controls attribute
+- Use aria-labelledby={elementID} and a combined div or other HTML element container to capture the alt text
+
+#### Motion preferences
+Use Web Components to
+- check the media query using `window.matchMedia`
+(Example Code in a Gist)[gist.github.com/tylersticka]
+
+
+## Resources
+[web.dev Article - Lazy Loading Video](https://web.dev/articles/lazy-loading-video)
