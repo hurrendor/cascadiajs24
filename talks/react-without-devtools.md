@@ -12,4 +12,14 @@ created: 1718903289910
 
 x - (@aidenybai)[https://twitter.com/aidenybai]
 Website - 
+Company - million
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/react-without-devtools]
+
+## Performance optimization investigation
+Options like devtools, useMemo() hook, react compiler all provide options but no insights into the performance.
+Decoupling performance data from the code makes it difficult to understand.
+
+Callback functions are recreated every rendering.
+Separate the input value from the filter value.
+
+Recommending: Million Lint to provide code optimization and linting capabilities.
