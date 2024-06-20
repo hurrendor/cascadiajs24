@@ -10,10 +10,14 @@ created: 1718900136459
 # Return to Web Animation Wonderland
 ## Rachel Lee Nabors
 (Recorded Talk)[TBA]
+(Slides)[https://www.dropbox.com/s/umtanfexdkh48dz/Alice%20Returns%20to%20Web%20Animations%20API%20Land%20slides.pdf?dl=0]
+(Resources)[https://github.com/rachelnabors/alice-in-videoland]
 
 
 ### Speaker Information
 x - @rachelnabors
+Substack - (nearestnabors.substack.com)[nearestnabors.substack.com]
+Website - (nearestnabors.com)[nearestnabors.com]
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/return-to-web-animation-wonderland]
 
 WebAnimations API
@@ -28,8 +32,8 @@ Animation classes come with play, pause, stop methods.
 Use specialty classes 
 
 ## Scroll-driven animations
-Identifying the when - timelines, and
-the what - /** missing **/ 
+Identifying the when -> timelines
+the what -> /** missing **/ 
 ScrollTimeline
 
 CSS5 - version
