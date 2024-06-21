@@ -11,9 +11,33 @@ Let’s work together to get shared understanding and buy-in for all the amazing
 updated: 1718918968854
 created: 1718918889411
 ---
-# Debugging Your Monitor
+# Debugging Your Manager Relationship
 ## Kristen M Thayer
 
 ### Speaker Information
 Website - https://bsky.app/profile/kristenmthayer.bsky.social
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/debugging-your-manager]
+
+Managing Up - how to get your manager on your side when you need something
+
+## Understand Your Manager's Perspective
+Your manager:
+-  is human - they also have off days.
+-  may have additional context from your team.
+
+## Tips:
+### 1. Know what you want, and ask for it clearly.
+Ask for a distinct thing, provide the leg work on getting there and how your manager can loop in.
+
+
+### 2. Framing your issue
+Defense - Why might your manager or others say no?
+Offense - Why is it good for your manager?
+Collaboratively - Why is this good for the collective?
+
+### 3. Debuggin a "No"
+Ask debugging questions:
+- Is there any wiggle room?
+- I'd love to understand more.
+- Is there more context you can share on that?
+- Is there anything that would turn that no into a yes?
