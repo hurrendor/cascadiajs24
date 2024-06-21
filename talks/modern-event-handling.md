@@ -13,3 +13,29 @@ created: 1718918706035
 ### Speaker Information
 x - [@domfarolino](https://twitter.com/domfarolino)
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/modern-event-handling-a-peek-at-the-new-observable-api]
+
+Github(github.com/domfarolino)[https://github.com/domfarolino]
+[Chromium repository for the Observable API](https://github.com/WICG/observable)
+Chrome flag to use the Observable API - chrome://flags/#observable-api
+
+## History of `async` on the Web
+### 1. Promises & Callbacks
+Callbacks provide a non-lineara control flow because of how they break up the functionality. This is somewhat controlled with `.then` chaining.
+#### Promise Limitations
+For use in events, by the time that the promise returns, the value may not be as ueeful.
+## 2. Observables Save the Day
+Observables are "promises for multiple values".
+Handling a stream of async events, the stream can be manipulated with operators.
+Intention is to work with eventTarget better.
+
+## 3. Observables in Action
+Both promises and observables have producer & consumer code
+Main differnece is that promises are eager and run right away, sometimes before there's a consumer.
+Observables are lazy, take many values, and can be subscribed to at any time. Observables are also synchronous.
+
+## 4. Observable Operators (methods)
+Derived from JavaScripts TC39 Iterator helper docs.
+`.take(int)` can be used to limit the values returned and handled
+
+## 5. Unsubscription and teardown
+Terminating operators like `take`, `takeUntil` and `first` use signals that signify when to tear down the subscription.
