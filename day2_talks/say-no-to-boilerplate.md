@@ -1,6 +1,6 @@
 ---
 id: bkg1fltxxgh09koq357qu4z
-title: Say No to Boilerplate
+title: 'Say No to Boilerplate: Building Apps with v0 & DataStax'
 desc: 'Forget about boilerplate! We'll show the magic of Vercel's v0.dev, an AI-powered UI generation tool that lets you describe your dream interface and watch it come to life.
 
 But power doesn't stop at the UI! We'll also dive into DataStax's vector database capabilities designed to handle complex data types and enable lightning-fast, AI-powered searches – perfect for building intelligent features like image recognition or personalized recommendations.
@@ -10,8 +10,7 @@ Effortlessly Integrate AI Features: Unleash the power of AI search and vector da
 updated: 1719014323108
 created: 1719012819389
 ---
-# Say No to Boilerplate: Building Apps with v0 & DataStax
-## Tracy Lee
+# Tracy Lee
 
 ### Speaker Information
 x - (@ladyleet)[https://twitter.com/ladyleet]
