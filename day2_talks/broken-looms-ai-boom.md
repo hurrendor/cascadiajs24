@@ -1,21 +1,29 @@
 ---
 id: koq02klfx2pd4adiprb42tr
-title: Broken Looms Ai Boom
+title: From Broken Looms to the AI Boom
 desc: 'As powerful AI tools begin to transform the nature of our work as software engineers, we have much to learn from 19th century weavers and modern day garment workers about our shared history.'
 updated: 1718990667704
 created: 1718990616949
 ---
-# Frm Broken Looms to the AI Boom
+
 ## Molly Jean Bennett
 
 ### Speaker Information
-(Website)[https://bsky.app/profile/mollyjeanbennett.bsky.social]
+[Website](https://bsky.app/profile/mollyjeanbennett.bsky. social) 
 LinkedIn: mollyjeanbennet
 Instagram: @mollyjeanbennet
-(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/from-broken-looms-to-the-ai-boom]
+[Cascadia Talk Information](https://cascadiajs.com/2024/talks/from-broken-looms-to-the-ai-boom)
+Company: Grow Therapy 
 
+### Key Themes
+- Intersection of coding and textile work
+- Historical context of industrialization and its parallels to modern technology
+- Impact of automation on labor
+- Personal reflections on the future of work
 
 Moving to replace human effort with automation is not a novel effort.
+
+## Key takeaways
 
 ### 1. Don't assume inevitability
 Assuming certain outcomes can become a self-fulfilling prophecy
@@ -26,15 +34,7 @@ When you use AI/automation, is it helping you learn and understand your craft?
 ### 3. Ask who benefits
 Should this feature really have AI? Does this help our users?
 
-
-
---------------------------------------------------
-
-### Key Themes
-- Intersection of coding and textile work
-- Historical context of industrialization and its parallels to modern technology
-- Impact of automation on labor
-- Personal reflections on the future of work
+______________________________________________________________
 
 ### Detailed Notes
 
@@ -81,8 +81,3 @@ Should this feature really have AI? Does this help our users?
 - **Human Element:** Emphasizes the importance of retaining the human element in both coding and textile work.
 - **Active Engagement:** Encourages active engagement in discussions about the future of work and the ethical use of technology.
 - **Historical Awareness:** Draws parallels between past and present to highlight ongoing issues in labor and technology.
-
-**Speaker:** Molly Jean Bennett  
-**Role:** Frontend Software Engineer  
-**Company:** Grow Therapy  
-**Location:** Portland, Oregon, United States
