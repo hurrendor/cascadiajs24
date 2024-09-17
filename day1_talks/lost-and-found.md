@@ -7,9 +7,10 @@ created: 1718917431925
 ---
 # Lost and Found: A Decade of Modern JS and the Rise of Serverless Fullstack
 ## Brian Leroux
+[YouTube Recording](https://www.youtube.com/watch?v=-B8ANxb6sns)
 
 ## Speaker Information
-(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/lost-and-found-a-decade-of-modern-js-and-the-rise-of-serverless-fullstack]
+- (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/lost-and-found-a-decade-of-modern-js-and-the-rise-of-serverless-fullstack]
 
 
 ## A brief history of JavaScript
@@ -33,12 +34,12 @@ Flash Player 6
 Jira is introduced
 
 #### 2003
-ActionSCript 2.0
+ActionScript 2.0
 #### 2004
 Web 2.0
 Gmail, Flickr
 #### 2005
-Google maps
+Google Maps
 Mootools
 Adobe acquires Macromedia
 #### 2006
@@ -114,7 +115,7 @@ John McCarthy (creator of lisp) wrote about utility components.
 Progress requires conscientious work and asking difficult questions. It is OK to challenge and question ideas.
 
 Frontend is taking over the backend via serverless
-Stability for browsers, nodesjs and AWS
+Stability for browsers, NodesJS and AWS
 
 ## Resources
 Building - https://arc.codes/, https://enhance.dev/ 

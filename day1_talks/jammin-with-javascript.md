@@ -17,24 +17,23 @@ created: 1718917255979
 ---
 # Jammin' with Javascript
 ## Herve Aniglo
+[YouTube Recording](https://www.youtube.com/watch?v=dfoEtByJenY)
 
 ## Speaker Information
-x - (@tigerstechexp)[https://twitter.com/tigerstechexp]
-LinkedIn - 
-Email - 
-(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/jammin-with-javascript]
+- x - (@tigerstechexp)[https://twitter.com/tigerstechexp]
+- [Cascadia Talk Information](https://cascadiajs.com/2024/talks/jammin-with-javascript)
 
 
-Building out a playlist - Code building session
+## Building out a playlist - Code building session
 
-## HTML - HyperText Markup Language
+### HTML - HyperText Markup Language
 Provides the fundamental markup for the skeleton of a web page.
 
-## CSS - Cascading Style Sheets
+### CSS - Cascading Style Sheets
 Language defining the presentation of a website
 
-## JavaScript
-Giving life to the web site. Akin to a nervous system.
+### JavaScript
+Gives life to the web-site, similar to a nervous system.
 
 Steps to building the web player
 - Add the distinct HTML elements

@@ -5,19 +5,23 @@ desc: 'Learn how companies like Vercel, Linear, and Raycast use Delightful Desig
 updated: 1718909032875
 created: 1718908708453
 ---
-https://cascadiajs.com/2024/talks/delightful-design
-
+# Delightful Design
+## John Pham
+[YouTube Recording](https://www.youtube.com/watch?v=0sVgWS8uf0A)
 
 ### Speaker Information
-x - (@johnphamous)[https://twitter.com/johnphamous]
+- x - [@johnphamous](https://twitter.com/johnphamous)
+- [Cascadia Talk Information](https://cascadiajs.com/2024/talks/delightful-design)
 
 ### Live coding session - Let's create our own Cascadia Twitter!
-How do we make it more readable?
-Whitespacing, location of call to action buttons need attention.
-Pay attention to contrast!
-Reduce the verbosity of information provided.
+#### How do we make it more readable?
+- White spaces and the location of the call-to-action buttons need attention.
+- Pay attention to contrast!
+- Reduce the verbosity of information provided.
 
+#### Time Formatting 
 Use the HTML `<time>` element to allow user preferences to apply.
 
+#### Accessibility
 Use proper aria-labels to help screen reader users.
 Create appropriate user hit sizes for buttons.

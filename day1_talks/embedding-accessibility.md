@@ -7,15 +7,15 @@ created: 1718918093593
 ---
 # Embedding Accessibility
 ## Aaron Gustafson
+[YouTube Recording](https://www.youtube.com/watch?v=17lRvhjVUrs)
 
 ## Speaker Information
-x - [@aarongustafson](https://twitter.com/aarongustafson)
-
-[Cascadia Talk Information](https://cascadiajs.com/2024/talks/embedding-accessibility)
+- x - [@aarongustafson](https://twitter.com/aarongustafson)
+- [Cascadia Talk Information](https://cascadiajs.com/2024/talks/embedding-accessibility)
+- Website - [aaron-gustafson.com](aaron-gustafson.com)
 
 Editor-in-chief for [A List Apart](https://alistapart.com/)
 Previously with Microsoft Edge, Microsoft W2C, Web Standards Project
-Website - [aaron-gustafson.com](aaron-gustafson.com)
 
 
 ## Embedding accessibility starts with fostering a diverse and inclusive culture.
@@ -31,8 +31,7 @@ Disability exists on a spectrum, ranging from permanent, temporary and situation
 
 ## Technology can create disabilities
 ### Electrical usage 
-How much power does your product use?
-(whatdoesmysitecost.com){}
+How much does it cost for someone to use your site? [Tool](https://whatdoesmysitecost.com/)
 ### Device Speed & Capabilities
 Screen resolution, interactive methods, contrast issues, are the users outside?
 
@@ -40,7 +39,7 @@ Screen resolution, interactive methods, contrast issues, are the users outside?
 By learning, we can grow to value our differences in making a more accessible product.
 
 ## Talk about accessibility as a market opportunity
-By recognizing diversity, we can reach more people. Making things unaccessible to users is cutting our market.
+By recognizing diversity, we can reach more people. Making things inaccessible to users is cutting our market.
 
 ## Change takes time, but it's worth it
 Adding accessibility post-build cost more time and resources than building it at the beginning.
@@ -52,10 +51,10 @@ Accessibility issues mainly are unaddressed until something bad happens, like a 
 Embedding accessibility earlier in the process can help us catch issues. The best time is in the planning phase, and the next best time is in the design experience.
 
 # Tools at different process stages
-Design - Adobe color blind safe themes
+Design - Adobe color-blind safe themes
 Development  - [Accessibility insights](https://accessibilityinsights.io/)
 - provides bug exporting, 
-deque - test for app accessibility
+dequeue - test for app accessibility
 VSCode Web Accessibility extensions
 [TestParty](https://www.testparty.ai/) - AI Accessibility testing and recommendations
 

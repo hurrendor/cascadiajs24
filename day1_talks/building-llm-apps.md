@@ -7,30 +7,31 @@ created: 1718918236008
 ---
 # Building useful apps with small, local LLMs
 ## Jacob Lee
+[YouTube Recording](https://www.youtube.com/watch?v=Kl6JKqkhYWA)
 
 ## Speaker Information
-x - (@hacabu)[https://twitter.com/hacubu]
-@LangChainAI
-smith.langchain.com
-(Tutorials)[https://langchain-ai.github.io/langgraphjs/tutorials]
-(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/building-useful-apps-with-small-local-llms]
+- x - [@hacabu](https://twitter.com/hacubu)
+- @LangChainAI
+- smith.langchain.com
+- [Tutorials](https://langchain-ai.github.io/langgraphjs/tutorials)
+- [Cascadia Talk Information](https://cascadiajs.com/2024/talks/building-useful-apps-with-small-local-llms)
 
 ## Why Small Language Models?
 Bigger is sometimes better but..
 
 ### Smaller Models have Portability 
-Examplese - webml-demo.vercel.app, webllm.mlc.ai, ollama.ai
+Examples - webml-demo.vercel.app, webllm.mlc.ai, ollama.ai
 
 ### Better design = better reliability
 Smaller models force you to think about what you're doing
 
 ### Current LLM landscape
-Timelinei provided to show rapid progression in LLMs from June 2017 to June 2024.
+Timeline provided to show rapid progression in LLMs from June 2017 to June 2024.
 
 ## How do you build with the future in mind?
-Focus on productionization and architecting well, it's too early to "build for" a specific model.
+Focus on [productionisation](https://en.wikipedia.org/wiki/Productionisation) and architecting well, it's too early to "build for" a specific model.
 
-(Chatbot arena leaderboard)[https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard]
+[Chatbot arena leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 Consider how many resources are needed to use the chat bot.
 
 
@@ -50,7 +51,7 @@ LangGraph thinks of flow states as nodes.
 State is central 
     - checkpoints for rewinding and debugging
     - allows for interruptions or human intervention in the loop
-LangSmith for productionization
+LangSmith for productionisation
 
 Designing out a small model with RAG and Self Reflection
 Ask a question, retrieve a node and grade the node. Create a process flow that checks for hallucinations, relevant docs, and if the question asked is actually answered.

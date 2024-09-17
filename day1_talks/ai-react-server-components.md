@@ -7,12 +7,13 @@ created: 1718918377386
 ---
 # AI-Generated React Server Components
 ## Tejas Kumar
+[YouTube Recording](https://www.youtube.com/watch?v=Yj1gWCBqHIA)
 
 ## Speaker Information
-x - [@tejasKumar_](https://twitter.com/tejasKumar_)
-Website - https://tej.as
-Youtube @tejask
-(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/ai-generated-react-server-components]
+- x - [@tejasKumar_](https://twitter.com/tejasKumar_)
+- Website - https://tej.as
+- Youtube @tejask
+- [Cascadia Talk Information](https://cascadiajs.com/2024/talks/ai-generated-react-server-components)
 
 ## AI
 3 Types of AI:
@@ -20,7 +21,7 @@ Youtube @tejask
 
 - Predictive
 Roots around early 1900's using the Markhov chain of predicting the next results. There is no memory around the predictions given, it only works off of a current value it's parsing.
-Google Paper - (Attention is All You Need)[https://research.google/pubs/attention-is-all-you-need/]
+Google Paper - [Attention is All You Need](https://research.google/pubs/attention-is-all-you-need/)
 
 - Generative
 GenAI

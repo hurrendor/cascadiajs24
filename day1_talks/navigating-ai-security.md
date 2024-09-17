@@ -7,9 +7,10 @@ created: 1718900810012
 ---
 # How to Navigate Emerging AI-Driven Security
 ## Logan Gore
+[YouTube Recording](https://www.youtube.com/watch?v=Eu-X9FHT6iE)
 
 ### Speaker Information
-[LinkedIn](https://www.linkedin.com/in/logan-gore/) 
+- [LinkedIn](https://www.linkedin.com/in/logan-gore/) 
 
 ## Primary security goals
 1. Securing your application against abuse
@@ -17,19 +18,16 @@ created: 1718900810012
 
 76% of attacks have some social/human element.
 
-Pre-AI Hacking needed some expertise, and 
-##
-AI skills now add the ability to create out believable websites or credential stuff.
-
+Pre-AI Hacking needed some expertise, and AI skills now add the ability to create out believable websites or credential stuff.
 
 Traditional MFA like SMS and TOTP are vulnerable to new advances.
 
 [Open source acclimation of AI](xtekky/gpt4free)
 
 ### Risks
-- Persistant: Protect against new weapons from AI
+- Persistent: Protect against new weapons from AI
 - Circumstantial: Protect against AI endpoints to prevent abuse and misuse
-- Nascent + developing: POtential future vector apps to protect
+- Nascent + developing: Potential future vector apps to protect
 
 ### Securing your app
 Upgrade bot and headless browsing detection

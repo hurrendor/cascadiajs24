@@ -8,15 +8,15 @@ created: 1718900199601
 
 # GIFS Are Forever, Let's Make Them Better
 ## Tyler Sticka
-(Recorded Talk)[TBA]
+[YouTube Recording](https://www.youtube.com/watch?v=VhOEcA-Ne44)
 
 
 ### Speaker Information
-x - (@tylersticka)[https://twitter.com/tylersticka]
-LinkedIn - @tylersticka
-@tylersticka@social.lol
-Website - [cloudfour.com](https://cloudfour.com/) 
-(Cascadia Talk Information)[https://cascadiajs.com/2024/talks/gifs-are-forever-lets-make-them-better]
+- x - [@tylersticka](https://twitter.com/tylersticka)
+- LinkedIn - @tylersticka
+- @tylersticka@social.lol
+- Website - [cloudfour.com](https://cloudfour.com/) 
+- [Cascadia Talk Information](https://cascadiajs.com/2024/talks/gifs-are-forever-lets-make-them-better)
 
 ### Key Themes
 - Importance of alternative text (alt text) for accessibility
@@ -46,13 +46,13 @@ Use modern file types like WebP, AVIF to provide higher quality while reducing t
 sharp, libvips, gif2webp, FFmpeg, lmageMagick 
 
 ##### Services:
-- Cloudinary (Biased Link)[cloudfour.com/make]
+- Cloudinary - ([Biased Link](cloudfour.com/make))
 
 
 ### Motion preferences
 Default to a static image asset to provide non-animated versions for user preferences
 - check the media query using `window.matchMedia`
-(Example Code in a Gist)[gist.github.com/tylersticka]
+[Example Code in a Gist](gist.github.com/tylersticka)
 - Modern operating systems allow users to opt into reduced motion for animations.
 - Developers can respect these preferences by providing static alternatives to animated content.
 - Use media attributes to dynamically swap between animated and static assets based on user preferences.
