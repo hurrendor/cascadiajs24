@@ -7,8 +7,9 @@ created: 1718990908697
 ---
 # Anatomy of a Modern Page Load
 ## Henri Helvetica
+[YouTube Recording](https://www.youtube.com/watch?v=aMYQVXQV9J4&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=20&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 x - (@henrihelvetica)[https://twitter.com/henrihelvetica]
 Instagram - @henrihelvetica
 LinkedIn - @henrihelvetica

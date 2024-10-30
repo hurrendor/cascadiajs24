@@ -7,8 +7,9 @@ created: 1718990820358
 ---
 # The Time Traveler's Playbook for Coding with AI
 ## Rizel Scarlett
+[YouTube Recording](https://www.youtube.com/watch?v=JpBdvIVlSNM&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=18&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 x - (@blackgirlbytes) [https://twitter.com/blackgirlbytes]
 
 ### 3 Types of Technologists

@@ -9,8 +9,9 @@ created: 1718918706035
 ---
 # Modern Event Handling: A Peek at the New Observable API
 ## Dominic Farolino
+[YouTube Recording](https://www.youtube.com/watch?v=AUYAfayMUl0&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=12&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 x - [@domfarolino](https://twitter.com/domfarolino)
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/modern-event-handling-a-peek-at-the-new-observable-api]
 

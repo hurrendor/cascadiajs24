@@ -11,8 +11,9 @@ updated: 1719014323108
 created: 1719012819389
 ---
 # Tracy Lee
+[YouTube Recording](https://www.youtube.com/watch?v=ytRIhvNHcEQ&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=19&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 x - (@ladyleet)[https://twitter.com/ladyleet]
 Website - thisdot.co
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/say-no-to-boilerplate-building-apps-with-v0-and-datastax]

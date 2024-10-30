@@ -9,7 +9,7 @@ created: 1718902964771
 ## Josh Goldberg
 [YouTube Recording](https://www.youtube.com/watch?v=Qlbef5hzDYQ)
 
-### Speaker Information
+## Speaker Information
 - Website - [JoshuaKGoldberg.com](https://www.joshuakgoldberg.com/)
 - [Cascadia Talk Information](https://cascadiajs.com/2024/talks/your-ai-needs-an-assistant)
 

@@ -7,8 +7,9 @@ created: 1718990986332
 ---
 # Everything You Need to Know About React 19
 ## Shruti Kapoor
+[YouTube Recording](https://www.youtube.com/watch?v=iQqAnBN1_RY&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=17&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 x, Twitter, YouTube - (@shrutikapoor08)[https://twitter.com/shrutikapoor08]
 Website - (shrutikapoor.dev)[https://shrutikapoor.dev/]
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/everything-you-need-to-know-about-react-19]

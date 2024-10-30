@@ -11,7 +11,7 @@ created: 1718900199601
 [YouTube Recording](https://www.youtube.com/watch?v=VhOEcA-Ne44)
 
 
-### Speaker Information
+## Speaker Information
 - x - [@tylersticka](https://twitter.com/tylersticka)
 - LinkedIn - @tylersticka
 - @tylersticka@social.lol

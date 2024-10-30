@@ -9,7 +9,7 @@ created: 1718908708453
 ## John Pham
 [YouTube Recording](https://www.youtube.com/watch?v=0sVgWS8uf0A)
 
-### Speaker Information
+## Speaker Information
 - x - [@johnphamous](https://twitter.com/johnphamous)
 - [Cascadia Talk Information](https://cascadiajs.com/2024/talks/delightful-design)
 

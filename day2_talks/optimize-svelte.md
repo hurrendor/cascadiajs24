@@ -7,6 +7,7 @@ created: 1718918802246
 ---
 # Optimize for vibes: Svelte 5 and the new age of Svelte
 ## Geoff Rich
+[YouTube Recording](https://www.youtube.com/watch?v=PQluuawldDE&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=13&pp=iAQB)
 
 ## Speaker Information
 x - (@geoffrich_)[https://twitter.com/geoffrich_]

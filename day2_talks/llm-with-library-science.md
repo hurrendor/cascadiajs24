@@ -6,8 +6,9 @@ updated: 1718990801977
 created: 1718990730749
 ---
 ## Jerome Woody
+[YouTube Recording](https://www.youtube.com/watch?v=ngucNS6ZSyg&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=16&pp=iAQB)
  
-### Speaker Information
+## Speaker Information
 [luesky](https://bsky.app/profile/jwoody.bsky.social)
 
 [Cascadia Talk Information](https://cascadiajs.com/2024/talks/having-your-llm-with-a-side-of-library-science)

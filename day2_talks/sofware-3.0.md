@@ -6,6 +6,7 @@ updated: 1719014571425
 created: 1719014459384
 ---
 # Shawn Swyx Wang
+[YouTube Recording](https://www.youtube.com/watch?v=Ha7K_5IN77I&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=22&pp=iAQB)
 
 ## Speaker Information
 x - (@swyx)[https://twitter.com/swyx]

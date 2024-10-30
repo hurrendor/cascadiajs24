@@ -7,8 +7,9 @@ created: 1719014380540
 ---
 # Putting Fun Back Into Coding
 ## Jason Lengstorf
+[YouTube Recording](https://www.youtube.com/watch?v=evnF-WP-A4Q&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=21&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 x - (@jlengstorf)[https://twitter.com/jlengstorf]
 lwj.dev
 jason.energy/links

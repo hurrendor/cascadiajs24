@@ -13,8 +13,9 @@ created: 1718918889411
 ---
 # Debugging Your Manager Relationship
 ## Kristen M Thayer
+[YouTube Recording](https://www.youtube.com/watch?v=TDCVYw1uqKM&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=14&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 Website - https://bsky.app/profile/kristenmthayer.bsky.social
 (Cascadia Talk Information)[https://cascadiajs.com/2024/talks/debugging-your-manager]
 

@@ -9,7 +9,7 @@ created: 1718900810012
 ## Logan Gore
 [YouTube Recording](https://www.youtube.com/watch?v=Eu-X9FHT6iE)
 
-### Speaker Information
+## Speaker Information
 - [LinkedIn](https://www.linkedin.com/in/logan-gore/) 
 
 ## Primary security goals

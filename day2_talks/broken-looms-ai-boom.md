@@ -7,8 +7,9 @@ created: 1718990616949
 ---
 
 ## Molly Jean Bennett
+[YouTube Recording](https://www.youtube.com/watch?v=lDaxrPw1mgQ&list=PLLiioAbFTbKPi9SkDhtppEGDPI31GGZyj&index=15&pp=iAQB)
 
-### Speaker Information
+## Speaker Information
 [Website](https://bsky.app/profile/mollyjeanbennett.bsky. social) 
 LinkedIn: mollyjeanbennet
 Instagram: @mollyjeanbennet

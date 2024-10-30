@@ -12,7 +12,7 @@ created: 1718900136459
 (Resources)[https://github.com/rachelnabors/alice-in-videoland)
 
 
-### Speaker Information
+## Speaker Information
 - x - @rachelnabors
 - Substack - [nearestnabors.substack.com](nearestnabors.substack.com)
 - Website - [nearestnabors.com](nearestnabors.com)
